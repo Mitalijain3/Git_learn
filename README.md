@@ -1,2 +1,2 @@
 # Git_learn
-mading changes in readme file
+making changes in readme file
